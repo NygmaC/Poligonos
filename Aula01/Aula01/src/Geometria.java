@@ -1,7 +1,11 @@
 import java.util.ArrayList;
 
 public class Geometria {
-	
+
+		//NOME: LEONARDO CRISPIN DE OLIVEIRA
+		//RA: 8181-9595
+
+		
 	public static void main(String[] args) {
 		ArrayList<Figura> poligonos = new ArrayList<>();
 		poligonos.add(new Triangulo(10, 2, 5, 5, 5));
